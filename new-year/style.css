@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background:linear-gradient( rgba(0, 0,0,0.5), rgba(0, 0, 0, 0.5)),url(../images/wp2749905-happy-birthday-hd-wallpaper.jpg);
+    background:linear-gradient( rgba(0, 0,0,0.5), rgba(0, 0, 0, 0.5)),url(..wp2749905-happy-birthday-hd-wallpaper.jpg);
     background-size: cover;
     background-position: center;
     color: white;
